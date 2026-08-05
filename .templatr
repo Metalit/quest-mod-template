@@ -1,0 +1,24 @@
+{
+  "name": "Quest Mod Template",
+  "author": "Metalit",
+  "src": "./template",
+  "description": "Template for creating Beat Saber mods for standalone Oculus Quest.",
+  "placeholders": [
+    {
+      "match": "#{name}",
+      "prompt": "The name of the mod"
+    },
+    {
+      "match": "#{id}",
+      "prompt": "The unique ID of the mod"
+    },
+    {
+      "match": "#{author}",
+      "prompt": "The author of the mod"
+    },
+    {
+      "match": "#{description}",
+      "prompt": "The description of the mod"
+    }
+  ]
+}
