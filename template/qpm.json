@@ -33,7 +33,7 @@
         "python ./extern/includes/mod-scripts/shared/restart.py $0:?"
       ]
     },
-    "ndk": "^29.0.14206865",
+    "ndk": "^28.2.13676358",
     "qmodIncludeDirs": [
       "./build",
       "./extern/libs",
@@ -67,12 +67,12 @@
     },
     {
       "id": "beatsaber-hook",
-      "versionRange": "^8.2.1",
+      "versionRange": "^6.4.2",
       "additionalData": {}
     },
     {
       "id": "bs-cordl",
-      "versionRange": "^4500.0.0",
+      "versionRange": "^4008.0.0",
       "additionalData": {}
     }
   ]
