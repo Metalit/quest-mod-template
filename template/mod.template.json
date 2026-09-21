@@ -5,7 +5,7 @@
   "version": "${version}",
   "author": "#{author}",
   "packageId": "com.beatgames.beatsaber",
-  "packageVersion": "1.44.3_23042",
+  "packageVersion": "1.45.0_26420",
   "description": "#{description}",
   "dependencies": [],
   "modFiles": [],
