@@ -61,11 +61,6 @@
       "additionalData": {}
     },
     {
-      "id": "flamingo",
-      "versionRange": "^1.2.1",
-      "additionalData": {}
-    },
-    {
       "id": "beatsaber-hook",
       "versionRange": "^6.4.2",
       "additionalData": {}
